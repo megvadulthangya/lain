@@ -77,7 +77,6 @@ local function factory(args)
         fs_now = {}
 
         local notifypaths = {}
-        
         local mounts_get
         local mount_get_mount_path
         pcall(function()
